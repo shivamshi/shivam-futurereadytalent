@@ -8,4 +8,4 @@ To make easier for content creators to sell there merchandise, and for customers
 
 Deployment can be viewed here : https://gentle-water-086875c00.1.azurestaticapps.net
 
-For deploying a static webapp using Azure Static web app service we have to make a resource group in my case it was "MerchStore" and connect to github account in order to access repositories. Azure creates a github actions .yaml file in ".github/Workflows/ " which automatically detects a new commit and run a github actions workflow and the changes reflects on the actual website.
+For deploying a static webapp using Azure Static web app service we have to make a resource group in my case it was "MerchStore" and connect to github account in order to access repositories. Azure creates a github actions .yaml file in ".github/Workflows/ " which automatically detects a new commit and run a github actions workflow and the changes reflects on the aactual website.
